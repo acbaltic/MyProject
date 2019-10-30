@@ -2,3 +2,7 @@ This is a book.
 There is a cat.
 
 This is a cat!!
+
+I like cookie.
+
+I drink coffee everyday.

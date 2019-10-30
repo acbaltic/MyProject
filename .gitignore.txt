@@ -1,0 +1,14 @@
+#忽略特定檔名
+
+pip-log.txt
+
+*.log
+
+#忽略特定目錄
+
+download/
+
+#忽略自己
+
+.gitignore
+
