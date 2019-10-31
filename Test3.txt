@@ -1,10 +1,15 @@
-This is a book.
-There is a cat.
+1.This is a book.
 
-This is a cat!!
+2.There is a cat.
 
-I like cookie.
+3.This is a cat!!
 
-I drink coffee everyday.
+4.I like cookie.
 
-Sharing information feels funny!!!
+5.I drink coffee everyday.
+
+6.Sharing information feels funny!!!
+
+7.Teach course feels good.
+
+8.I like to teach people.
