@@ -9,4 +9,8 @@ I drink coffee everyday.
 
 Teach course feels good.
 
+<<<<<<< HEAD
 I like to teach people.
+=======
+Branch teach2: I like to teach people.
+>>>>>>> teach2
